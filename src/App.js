@@ -15,7 +15,7 @@ function App() {
 
           <li className='nav-item dropdown'>
             <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Estudante
+              Estude
             </a>
             <ul className="dropdown-menu dropdown-menu-light">
               <li>
