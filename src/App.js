@@ -10,7 +10,7 @@ function App() {
         <ul className='navbar-nav mr-auto'>
           
           <li className='nav-item'>
-            <Link to='/' className='nav-link'>Homre</Link>
+            <Link to='/' className='nav-link'>Home</Link>
           </li>
 
           <li className='nav-item dropdown'>
