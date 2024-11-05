@@ -1,0 +1,11 @@
+*   [33me5b057d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'desenvolvimento'
+[31m|[m[32m\[m  
+[31m|[m * [33m325a674[m[33m ([m[1;31morigin/desenvolvimento[m[33m, [m[1;32mdesenvolvimento[m[33m)[m Adicionando novo index
+[31m|[m * [33mb3dda09[m Adicionando nova rota
+* [32m|[m [33md886003[m Alterando rota da Home
+[32m|[m[32m/[m  
+* [33mb96f8aa[m Chamando axiosans extensões
+* [33m2422c74[m Adicionando exntensão de Axios.js
+* [33me2e8018[m Alterando arquivo de testes
+* [33macfa7a0[m Alterando número incial de estudantes
+* [33m767a545[m first commit
